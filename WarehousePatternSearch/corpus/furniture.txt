@@ -17,3 +17,83 @@ Location: Section C-18
 Product ID: P205
 Product Name: Computer Table
 Location: Section C-20
+
+Product ID: P201
+Product Name: Office Chair
+Location: Section C-10
+
+Product ID: P202
+Product Name: Wooden Desk
+Location: Section C-12
+
+Product ID: P203
+Product Name: Bookshelf
+Location: Section C-15
+
+Product ID: P204
+Product Name: Filing Cabinet
+Location: Section C-18
+
+Product ID: P205
+Product Name: Computer Table
+Location: Section C-20
+
+Product ID: P206
+Product Name: Conference Table
+Location: Section C-22
+
+Product ID: P207
+Product Name: Reception Desk
+Location: Section C-24
+
+Product ID: P208
+Product Name: Visitor Chair
+Location: Section C-26
+
+Product ID: P209
+Product Name: Storage Cabinet
+Location: Section C-28
+
+Product ID: P210
+Product Name: Office Sofa
+Location: Section C-30
+
+Product ID: P211
+Product Name: Study Table
+Location: Section C-32
+
+Product ID: P212
+Product Name: Computer Desk
+Location: Section C-34
+
+Product ID: P213
+Product Name: Wooden Stool
+Location: Section C-36
+
+Product ID: P214
+Product Name: Folding Chair
+Location: Section C-38
+
+Product ID: P215
+Product Name: Metal Rack
+Location: Section C-40
+
+Product ID: P216
+Product Name: Display Shelf
+Location: Section C-42
+
+Product ID: P217
+Product Name: Drawer Unit
+Location: Section C-44
+
+Product ID: P218
+Product Name: Executive Chair
+Location: Section C-46
+
+Product ID: P219
+Product Name: Side Table
+Location: Section C-48
+
+Product ID: P220
+Product Name: File Storage Rack
+Location: Section C-50
