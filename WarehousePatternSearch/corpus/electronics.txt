@@ -1,0 +1,23 @@
+Product ID: P101
+Product Name: Wireless Keyboard
+Location: Section A-12
+
+Product ID: P102
+Product Name: Wireless Mouse
+Location: Section A-14
+
+Product ID: P103
+Product Name: Barcode Scanner
+Location: Section B-05
+
+Product ID: P104
+Product Name: USB-C Hub
+Location: Section A-18
+
+Product ID: P105
+Product Name: Bluetooth Speaker
+Location: Section B-08
+
+Product ID: P106
+Product Name: HDMI Cable
+Location: Section A-20
