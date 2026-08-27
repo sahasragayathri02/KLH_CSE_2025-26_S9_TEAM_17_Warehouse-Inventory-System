@@ -17,3 +17,83 @@ Location: Section E-07
 Product ID: P405
 Product Name: Marker Pen
 Location: Section E-09
+
+Product ID: P401
+Product Name: Ball Pen
+Location: Section E-01
+
+Product ID: P402
+Product Name: Notebook
+Location: Section E-03
+
+Product ID: P403
+Product Name: Stapler
+Location: Section E-05
+
+Product ID: P404
+Product Name: Printer Paper
+Location: Section E-07
+
+Product ID: P405
+Product Name: Marker Pen
+Location: Section E-09
+
+Product ID: P406
+Product Name: Pencil
+Location: Section E-11
+
+Product ID: P407
+Product Name: Eraser
+Location: Section E-13
+
+Product ID: P408
+Product Name: Paper Clips
+Location: Section E-15
+
+Product ID: P409
+Product Name: Binder Clips
+Location: Section E-17
+
+Product ID: P410
+Product Name: File Folder
+Location: Section E-19
+
+Product ID: P411
+Product Name: Spiral Notebook
+Location: Section E-21
+
+Product ID: P412
+Product Name: Sticky Notes
+Location: Section E-23
+
+Product ID: P413
+Product Name: Highlighter
+Location: Section E-25
+
+Product ID: P414
+Product Name: Scissors
+Location: Section E-27
+
+Product ID: P415
+Product Name: Glue Stick
+Location: Section E-29
+
+Product ID: P416
+Product Name: Correction Tape
+Location: Section E-31
+
+Product ID: P417
+Product Name: Whiteboard Marker
+Location: Section E-33
+
+Product ID: P418
+Product Name: Calculator
+Location: Section E-35
+
+Product ID: P419
+Product Name: Envelope
+Location: Section E-37
+
+Product ID: P420
+Product Name: Desk Organizer
+Location: Section E-39
