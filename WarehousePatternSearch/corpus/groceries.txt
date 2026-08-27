@@ -1,0 +1,19 @@
+Product ID: P301
+Product Name: Basmati Rice
+Location: Section D-01
+
+Product ID: P302
+Product Name: Wheat Flour
+Location: Section D-03
+
+Product ID: P303
+Product Name: Sugar
+Location: Section D-05
+
+Product ID: P304
+Product Name: Cooking Oil
+Location: Section D-07
+
+Product ID: P305
+Product Name: Green Tea
+Location: Section D-09
