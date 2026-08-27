@@ -1,0 +1,19 @@
+Product ID: P201
+Product Name: Office Chair
+Location: Section C-10
+
+Product ID: P202
+Product Name: Wooden Desk
+Location: Section C-12
+
+Product ID: P203
+Product Name: Bookshelf
+Location: Section C-15
+
+Product ID: P204
+Product Name: Filing Cabinet
+Location: Section C-18
+
+Product ID: P205
+Product Name: Computer Table
+Location: Section C-20
