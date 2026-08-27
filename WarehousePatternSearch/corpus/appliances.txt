@@ -1,0 +1,19 @@
+Product ID: P501
+Product Name: Electric Kettle
+Location: Section F-02
+
+Product ID: P502
+Product Name: Microwave Oven
+Location: Section F-04
+
+Product ID: P503
+Product Name: Mixer Grinder
+Location: Section F-06
+
+Product ID: P504
+Product Name: Air Fryer
+Location: Section F-08
+
+Product ID: P505
+Product Name: Toaster
+Location: Section F-10
