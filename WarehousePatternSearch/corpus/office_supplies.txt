@@ -1,0 +1,19 @@
+Product ID: P401
+Product Name: Ball Pen
+Location: Section E-01
+
+Product ID: P402
+Product Name: Notebook
+Location: Section E-03
+
+Product ID: P403
+Product Name: Stapler
+Location: Section E-05
+
+Product ID: P404
+Product Name: Printer Paper
+Location: Section E-07
+
+Product ID: P405
+Product Name: Marker Pen
+Location: Section E-09
