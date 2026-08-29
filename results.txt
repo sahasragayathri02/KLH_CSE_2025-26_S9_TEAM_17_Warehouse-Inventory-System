@@ -1,1 +1,78 @@
-..
+WAREHOUSE INVENTORY SYSTEM
+PRODUCT LOCATOR
+
+TEST CASE 1
+===========
+
+Input:
+Wireless Mouse
+
+Output:
+
+✓ PRODUCT FOUND
+
+Product ID   : P102
+Product Name : Wireless Mouse
+Location     : Section A-14
+File         : electronics.txt
+
+
+TEST CASE 2
+===========
+
+Input:
+Microwave Oven
+
+Output:
+
+✓ PRODUCT FOUND
+
+Product ID   : P502
+Product Name : Microwave Oven
+Location     : Section F-04
+File         : appliances.txt
+
+
+TEST CASE 3
+===========
+
+Input:
+Office Chair
+
+Output:
+
+✓ PRODUCT FOUND
+
+Product ID   : P201
+Product Name : Office Chair
+Location     : Section C-10
+File         : furniture.txt
+
+
+TEST CASE 4
+===========
+
+Input:
+Basmati Rice
+
+Output:
+
+✓ PRODUCT FOUND
+
+Product ID   : P301
+Product Name : Basmati Rice
+Location     : Section D-01
+File         : groceries.txt
+
+
+TEST CASE 5
+===========
+
+Input:
+iPhone
+
+Output:
+
+✗ PRODUCT NOT FOUND
+
+No product matching "iPhone" was found.
