@@ -1,0 +1,39 @@
+Product ID: P1521
+Product Name: Digital Thermometer
+Location: Section G-01
+
+Product ID: P1522
+Product Name: Blood Pressure Monitor
+Location: Section G-02
+
+Product ID: P1523
+Product Name: Pulse Oximeter
+Location: Section G-03
+
+Product ID: P1524
+Product Name: Disposable Gloves
+Location: Section G-04
+
+Product ID: P1525
+Product Name: Face Masks
+Location: Section G-05
+
+Product ID: P1526
+Product Name: Medical Tape
+Location: Section G-01
+
+Product ID: P1527
+Product Name: Elastic Bandage
+Location: Section G-02
+
+Product ID: P1528
+Product Name: Syringe Pack
+Location: Section G-03
+
+Product ID: P1529
+Product Name: Hot Water Bag
+Location: Section G-04
+
+Product ID: P1530
+Product Name: Ice Pack
+Location: Section G-05
