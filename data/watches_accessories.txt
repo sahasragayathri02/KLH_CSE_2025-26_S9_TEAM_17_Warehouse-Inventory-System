@@ -1,0 +1,39 @@
+Product ID: P1621
+Product Name: Watch Strap
+Location: Section E-01
+
+Product ID: P1622
+Product Name: Leather Watch Band
+Location: Section E-02
+
+Product ID: P1623
+Product Name: Metal Watch Band
+Location: Section E-03
+
+Product ID: P1624
+Product Name: Watch Box
+Location: Section E-04
+
+Product ID: P1625
+Product Name: Watch Winder
+Location: Section E-05
+
+Product ID: P1626
+Product Name: Watch Tool Kit
+Location: Section E-01
+
+Product ID: P1627
+Product Name: Watch Protector
+Location: Section E-02
+
+Product ID: P1628
+Product Name: Watch Case
+Location: Section E-03
+
+Product ID: P1629
+Product Name: Watch Cleaning Kit
+Location: Section E-04
+
+Product ID: P1630
+Product Name: Watch Stand
+Location: Section E-05
