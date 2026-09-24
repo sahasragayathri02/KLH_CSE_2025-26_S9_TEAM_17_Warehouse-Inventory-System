@@ -1,0 +1,39 @@
+Product ID: P1601
+Product Name: Backpack
+Location: Section C-01
+
+Product ID: P1602
+Product Name: Laptop Bag
+Location: Section C-02
+
+Product ID: P1603
+Product Name: Shoulder Bag
+Location: Section C-03
+
+Product ID: P1604
+Product Name: Tote Bag
+Location: Section C-04
+
+Product ID: P1605
+Product Name: Messenger Bag
+Location: Section C-05
+
+Product ID: P1606
+Product Name: Travel Bag
+Location: Section C-01
+
+Product ID: P1607
+Product Name: Gym Bag
+Location: Section C-02
+
+Product ID: P1608
+Product Name: Sling Bag
+Location: Section C-03
+
+Product ID: P1609
+Product Name: School Bag
+Location: Section C-04
+
+Product ID: P1610
+Product Name: Canvas Bag
+Location: Section C-05
