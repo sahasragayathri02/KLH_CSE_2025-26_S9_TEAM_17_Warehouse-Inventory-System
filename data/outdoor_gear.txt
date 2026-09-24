@@ -1,0 +1,39 @@
+Product ID: P1551
+Product Name: Hiking Backpack
+Location: Section J-01
+
+Product ID: P1552
+Product Name: Trekking Pole
+Location: Section J-02
+
+Product ID: P1553
+Product Name: Outdoor Lantern
+Location: Section J-03
+
+Product ID: P1554
+Product Name: Binoculars
+Location: Section J-04
+
+Product ID: P1555
+Product Name: Water Bottle
+Location: Section J-05
+
+Product ID: P1556
+Product Name: Travel Compass
+Location: Section J-01
+
+Product ID: P1557
+Product Name: Rain Poncho
+Location: Section J-02
+
+Product ID: P1558
+Product Name: Hiking Boots
+Location: Section J-03
+
+Product ID: P1559
+Product Name: Outdoor Chair
+Location: Section J-04
+
+Product ID: P1560
+Product Name: Portable Stove
+Location: Section J-05
