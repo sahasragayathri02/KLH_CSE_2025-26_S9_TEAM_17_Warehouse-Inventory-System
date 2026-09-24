@@ -1,0 +1,39 @@
+Product ID: P1651
+Product Name: Floral Perfume
+Location: Section H-01
+
+Product ID: P1652
+Product Name: Citrus Perfume
+Location: Section H-02
+
+Product ID: P1653
+Product Name: Woody Perfume
+Location: Section H-03
+
+Product ID: P1654
+Product Name: Fresh Cologne
+Location: Section H-04
+
+Product ID: P1655
+Product Name: Vanilla Perfume
+Location: Section H-05
+
+Product ID: P1656
+Product Name: Rose Fragrance
+Location: Section H-01
+
+Product ID: P1657
+Product Name: Musk Perfume
+Location: Section H-02
+
+Product ID: P1658
+Product Name: Ocean Fragrance
+Location: Section H-03
+
+Product ID: P1659
+Product Name: Unisex Perfume
+Location: Section H-04
+
+Product ID: P1660
+Product Name: Perfume Gift Set
+Location: Section H-05
