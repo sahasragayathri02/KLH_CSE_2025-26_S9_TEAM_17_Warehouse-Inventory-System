@@ -1,0 +1,39 @@
+Product ID: P1411
+Product Name: Turmeric Powder
+Location: Section H-01
+
+Product ID: P1412
+Product Name: Chilli Powder
+Location: Section H-02
+
+Product ID: P1413
+Product Name: Cumin Seeds
+Location: Section H-03
+
+Product ID: P1414
+Product Name: Coriander Powder
+Location: Section H-04
+
+Product ID: P1415
+Product Name: Black Pepper
+Location: Section H-05
+
+Product ID: P1416
+Product Name: Garam Masala
+Location: Section H-01
+
+Product ID: P1417
+Product Name: Cardamom
+Location: Section H-02
+
+Product ID: P1418
+Product Name: Cloves
+Location: Section H-03
+
+Product ID: P1419
+Product Name: Cinnamon
+Location: Section H-04
+
+Product ID: P1420
+Product Name: Mustard Seeds
+Location: Section H-05
