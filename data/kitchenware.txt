@@ -1,0 +1,79 @@
+Product ID: P1501
+Product Name: Dinner Plate
+Location: Section O-01
+
+Product ID: P1502
+Product Name: Soup Bowl
+Location: Section O-03
+
+Product ID: P1503
+Product Name: Tea Cup
+Location: Section O-05
+
+Product ID: P1504
+Product Name: Coffee Mug
+Location: Section O-07
+
+Product ID: P1505
+Product Name: Water Glass
+Location: Section O-09
+
+Product ID: P1506
+Product Name: Steel Spoon
+Location: Section O-11
+
+Product ID: P1507
+Product Name: Dinner Fork
+Location: Section O-13
+
+Product ID: P1508
+Product Name: Kitchen Knife
+Location: Section O-15
+
+Product ID: P1509
+Product Name: Cutting Board
+Location: Section O-17
+
+Product ID: P1510
+Product Name: Pressure Cooker
+Location: Section O-19
+
+Product ID: P1511
+Product Name: Sauce Pan
+Location: Section O-21
+
+Product ID: P1512
+Product Name: Frying Pan
+Location: Section O-23
+
+Product ID: P1513
+Product Name: Cooking Pot
+Location: Section O-25
+
+Product ID: P1514
+Product Name: Water Bottle
+Location: Section O-27
+
+Product ID: P1515
+Product Name: Lunch Box
+Location: Section O-29
+
+Product ID: P1516
+Product Name: Food Container
+Location: Section O-31
+
+Product ID: P1517
+Product Name: Spice Box
+Location: Section O-33
+
+Product ID: P1518
+Product Name: Rolling Pin
+Location: Section O-35
+
+Product ID: P1519
+Product Name: Measuring Cup
+Location: Section O-37
+
+Product ID: P1520
+Product Name: Kitchen Tongs
+Location: Section O-39
