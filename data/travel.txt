@@ -1,0 +1,79 @@
+Product ID: P2001
+Product Name: Travel Backpack
+Location: Section T-01
+
+Product ID: P2002
+Product Name: Travel Bag
+Location: Section T-03
+
+Product ID: P2003
+Product Name: Suitcase
+Location: Section T-05
+
+Product ID: P2004
+Product Name: Cabin Bag
+Location: Section T-07
+
+Product ID: P2005
+Product Name: Travel Pillow
+Location: Section T-09
+
+Product ID: P2006
+Product Name: Neck Pillow
+Location: Section T-11
+
+Product ID: P2007
+Product Name: Travel Blanket
+Location: Section T-13
+
+Product ID: P2008
+Product Name: Luggage Lock
+Location: Section T-15
+
+Product ID: P2009
+Product Name: Passport Holder
+Location: Section T-17
+
+Product ID: P2010
+Product Name: Travel Wallet
+Location: Section T-19
+
+Product ID: P2011
+Product Name: Toiletry Bag
+Location: Section T-21
+
+Product ID: P2012
+Product Name: Travel Adapter
+Location: Section T-23
+
+Product ID: P2013
+Product Name: Travel Charger
+Location: Section T-25
+
+Product ID: P2014
+Product Name: Portable Fan
+Location: Section T-27
+
+Product ID: P2015
+Product Name: Camping Tent
+Location: Section T-29
+
+Product ID: P2016
+Product Name: Sleeping Bag
+Location: Section T-31
+
+Product ID: P2017
+Product Name: Camping Chair
+Location: Section T-33
+
+Product ID: P2018
+Product Name: Camping Lantern
+Location: Section T-35
+
+Product ID: P2019
+Product Name: Travel Water Bottle
+Location: Section T-37
+
+Product ID: P2020
+Product Name: Travel First Aid Kit
+Location: Section T-39
