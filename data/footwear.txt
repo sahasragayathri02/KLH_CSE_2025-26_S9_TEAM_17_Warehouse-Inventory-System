@@ -1,0 +1,79 @@
+Product ID: P1301
+Product Name: Running Shoes
+Location: Section M-01
+
+Product ID: P1302
+Product Name: Walking Shoes
+Location: Section M-03
+
+Product ID: P1303
+Product Name: Formal Shoes
+Location: Section M-05
+
+Product ID: P1304
+Product Name: Casual Shoes
+Location: Section M-07
+
+Product ID: P1305
+Product Name: Sports Shoes
+Location: Section M-09
+
+Product ID: P1306
+Product Name: Basketball Shoes
+Location: Section M-11
+
+Product ID: P1307
+Product Name: Football Shoes
+Location: Section M-13
+
+Product ID: P1308
+Product Name: Cricket Shoes
+Location: Section M-15
+
+Product ID: P1309
+Product Name: Tennis Shoes
+Location: Section M-17
+
+Product ID: P1310
+Product Name: Hiking Shoes
+Location: Section M-19
+
+Product ID: P1311
+Product Name: Safety Shoes
+Location: Section M-21
+
+Product ID: P1312
+Product Name: Leather Shoes
+Location: Section M-23
+
+Product ID: P1313
+Product Name: Canvas Shoes
+Location: Section M-25
+
+Product ID: P1314
+Product Name: Loafers
+Location: Section M-27
+
+Product ID: P1315
+Product Name: Slip On Shoes
+Location: Section M-29
+
+Product ID: P1316
+Product Name: Sandals
+Location: Section M-31
+
+Product ID: P1317
+Product Name: Flip Flops
+Location: Section M-33
+
+Product ID: P1318
+Product Name: Winter Boots
+Location: Section M-35
+
+Product ID: P1319
+Product Name: Rain Boots
+Location: Section M-37
+
+Product ID: P1320
+Product Name: House Slippers
+Location: Section M-39
