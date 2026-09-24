@@ -1,0 +1,39 @@
+Product ID: P1401
+Product Name: Potatoes
+Location: Section G-01
+
+Product ID: P1402
+Product Name: Tomatoes
+Location: Section G-02
+
+Product ID: P1403
+Product Name: Onions
+Location: Section G-03
+
+Product ID: P1404
+Product Name: Carrots
+Location: Section G-04
+
+Product ID: P1405
+Product Name: Spinach
+Location: Section G-05
+
+Product ID: P1406
+Product Name: Cabbage
+Location: Section G-01
+
+Product ID: P1407
+Product Name: Cauliflower
+Location: Section G-02
+
+Product ID: P1408
+Product Name: Broccoli
+Location: Section G-03
+
+Product ID: P1409
+Product Name: Cucumber
+Location: Section G-04
+
+Product ID: P1410
+Product Name: Capsicum
+Location: Section G-05
