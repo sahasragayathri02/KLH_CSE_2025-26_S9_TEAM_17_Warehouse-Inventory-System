@@ -1,0 +1,79 @@
+Product ID: P901
+Product Name: Gel Pen
+Location: Section J-02
+
+Product ID: P902
+Product Name: Ballpoint Pen
+Location: Section J-04
+
+Product ID: P903
+Product Name: Fountain Pen
+Location: Section J-06
+
+Product ID: P904
+Product Name: Mechanical Pencil
+Location: Section J-08
+
+Product ID: P905
+Product Name: Pencil Box
+Location: Section J-10
+
+Product ID: P906
+Product Name: A4 Notebook
+Location: Section J-12
+
+Product ID: P907
+Product Name: Writing Pad
+Location: Section J-14
+
+Product ID: P908
+Product Name: Sketch Pens
+Location: Section J-16
+
+Product ID: P909
+Product Name: Color Pencils
+Location: Section J-18
+
+Product ID: P910
+Product Name: Crayons
+Location: Section J-20
+
+Product ID: P911
+Product Name: Drawing Book
+Location: Section J-22
+
+Product ID: P912
+Product Name: Graph Paper
+Location: Section J-24
+
+Product ID: P913
+Product Name: Carbon Paper
+Location: Section J-26
+
+Product ID: P914
+Product Name: Index Cards
+Location: Section J-28
+
+Product ID: P915
+Product Name: Paper Pad
+Location: Section J-30
+
+Product ID: P916
+Product Name: File Binder
+Location: Section J-32
+
+Product ID: P917
+Product Name: Ring Binder
+Location: Section J-34
+
+Product ID: P918
+Product Name: Desk Pad
+Location: Section J-36
+
+Product ID: P919
+Product Name: Pencil Sharpener
+Location: Section J-38
+
+Product ID: P920
+Product Name: Staple Pins
+Location: Section J-40
