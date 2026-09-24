@@ -1,0 +1,79 @@
+Product ID: P1801
+Product Name: Garden Shovel
+Location: Section R-01
+
+Product ID: P1802
+Product Name: Garden Rake
+Location: Section R-03
+
+Product ID: P1803
+Product Name: Garden Hoe
+Location: Section R-05
+
+Product ID: P1804
+Product Name: Pruning Shears
+Location: Section R-07
+
+Product ID: P1805
+Product Name: Watering Can
+Location: Section R-09
+
+Product ID: P1806
+Product Name: Garden Hose
+Location: Section R-11
+
+Product ID: P1807
+Product Name: Plant Pot
+Location: Section R-13
+
+Product ID: P1808
+Product Name: Flower Pot
+Location: Section R-15
+
+Product ID: P1809
+Product Name: Garden Gloves
+Location: Section R-17
+
+Product ID: P1810
+Product Name: Plant Seeds
+Location: Section R-19
+
+Product ID: P1811
+Product Name: Flower Seeds
+Location: Section R-21
+
+Product ID: P1812
+Product Name: Vegetable Seeds
+Location: Section R-23
+
+Product ID: P1813
+Product Name: Garden Soil
+Location: Section R-25
+
+Product ID: P1814
+Product Name: Organic Compost
+Location: Section R-27
+
+Product ID: P1815
+Product Name: Plant Fertilizer
+Location: Section R-29
+
+Product ID: P1816
+Product Name: Plant Spray
+Location: Section R-31
+
+Product ID: P1817
+Product Name: Garden Sprinkler
+Location: Section R-33
+
+Product ID: P1818
+Product Name: Plant Support Stick
+Location: Section R-35
+
+Product ID: P1819
+Product Name: Gardening Net
+Location: Section R-37
+
+Product ID: P1820
+Product Name: Garden Cart
+Location: Section R-39
