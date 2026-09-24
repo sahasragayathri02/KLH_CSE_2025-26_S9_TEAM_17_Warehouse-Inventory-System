@@ -1,0 +1,79 @@
+Product ID: P801
+Product Name: Hammer
+Location: Section I-02
+
+Product ID: P802
+Product Name: Screwdriver Set
+Location: Section I-04
+
+Product ID: P803
+Product Name: Adjustable Wrench
+Location: Section I-06
+
+Product ID: P804
+Product Name: Spanner Set
+Location: Section I-08
+
+Product ID: P805
+Product Name: Pliers
+Location: Section I-10
+
+Product ID: P806
+Product Name: Cutting Pliers
+Location: Section I-12
+
+Product ID: P807
+Product Name: Measuring Tape
+Location: Section I-14
+
+Product ID: P808
+Product Name: Allen Key Set
+Location: Section I-16
+
+Product ID: P809
+Product Name: Drill Machine
+Location: Section I-18
+
+Product ID: P810
+Product Name: Electric Screwdriver
+Location: Section I-20
+
+Product ID: P811
+Product Name: Hand Saw
+Location: Section I-22
+
+Product ID: P812
+Product Name: Hacksaw
+Location: Section I-24
+
+Product ID: P813
+Product Name: Utility Knife
+Location: Section I-26
+
+Product ID: P814
+Product Name: Level Tool
+Location: Section I-28
+
+Product ID: P815
+Product Name: Pipe Wrench
+Location: Section I-30
+
+Product ID: P816
+Product Name: Wire Cutter
+Location: Section I-32
+
+Product ID: P817
+Product Name: Tool Box
+Location: Section I-34
+
+Product ID: P818
+Product Name: Claw Hammer
+Location: Section I-36
+
+Product ID: P819
+Product Name: Torque Wrench
+Location: Section I-38
+
+Product ID: P820
+Product Name: Socket Set
+Location: Section I-40
