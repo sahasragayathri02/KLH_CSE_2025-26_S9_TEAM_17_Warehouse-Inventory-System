@@ -1,0 +1,39 @@
+Product ID: P1491
+Product Name: Baby Diapers
+Location: Section D-01
+
+Product ID: P1492
+Product Name: Baby Wipes
+Location: Section D-02
+
+Product ID: P1493
+Product Name: Baby Shampoo
+Location: Section D-03
+
+Product ID: P1494
+Product Name: Baby Lotion
+Location: Section D-04
+
+Product ID: P1495
+Product Name: Baby Powder
+Location: Section D-05
+
+Product ID: P1496
+Product Name: Baby Soap
+Location: Section D-01
+
+Product ID: P1497
+Product Name: Baby Feeding Bottle
+Location: Section D-02
+
+Product ID: P1498
+Product Name: Baby Bib
+Location: Section D-03
+
+Product ID: P1499
+Product Name: Baby Blanket
+Location: Section D-04
+
+Product ID: P1500
+Product Name: Baby Towels
+Location: Section D-05
