@@ -1,0 +1,39 @@
+Product ID: P1581
+Product Name: Running T-Shirt
+Location: Section A-01
+
+Product ID: P1582
+Product Name: Track Pants
+Location: Section A-02
+
+Product ID: P1583
+Product Name: Sports Shorts
+Location: Section A-03
+
+Product ID: P1584
+Product Name: Training Jacket
+Location: Section A-04
+
+Product ID: P1585
+Product Name: Gym T-Shirt
+Location: Section A-05
+
+Product ID: P1586
+Product Name: Running Socks
+Location: Section A-01
+
+Product ID: P1587
+Product Name: Sports Cap
+Location: Section A-02
+
+Product ID: P1588
+Product Name: Compression Shirt
+Location: Section A-03
+
+Product ID: P1589
+Product Name: Training Shorts
+Location: Section A-04
+
+Product ID: P1590
+Product Name: Sports Jacket
+Location: Section A-05
