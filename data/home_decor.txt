@@ -1,0 +1,79 @@
+Product ID: P1901
+Product Name: Wall Clock
+Location: Section S-01
+
+Product ID: P1902
+Product Name: Table Clock
+Location: Section S-03
+
+Product ID: P1903
+Product Name: Photo Frame
+Location: Section S-05
+
+Product ID: P1904
+Product Name: Wall Painting
+Location: Section S-07
+
+Product ID: P1905
+Product Name: Decorative Vase
+Location: Section S-09
+
+Product ID: P1906
+Product Name: Flower Vase
+Location: Section S-11
+
+Product ID: P1907
+Product Name: Table Lamp
+Location: Section S-13
+
+Product ID: P1908
+Product Name: Floor Lamp
+Location: Section S-15
+
+Product ID: P1909
+Product Name: Wall Mirror
+Location: Section S-17
+
+Product ID: P1910
+Product Name: Decorative Mirror
+Location: Section S-19
+
+Product ID: P1911
+Product Name: Candle Holder
+Location: Section S-21
+
+Product ID: P1912
+Product Name: Scented Candle
+Location: Section S-23
+
+Product ID: P1913
+Product Name: Artificial Flowers
+Location: Section S-25
+
+Product ID: P1914
+Product Name: Decorative Basket
+Location: Section S-27
+
+Product ID: P1915
+Product Name: Curtain
+Location: Section S-29
+
+Product ID: P1916
+Product Name: Door Mat
+Location: Section S-31
+
+Product ID: P1917
+Product Name: Floor Carpet
+Location: Section S-33
+
+Product ID: P1918
+Product Name: Cushion Cover
+Location: Section S-35
+
+Product ID: P1919
+Product Name: Sofa Cushion
+Location: Section S-37
+
+Product ID: P1920
+Product Name: Decorative Sculpture
+Location: Section S-39
