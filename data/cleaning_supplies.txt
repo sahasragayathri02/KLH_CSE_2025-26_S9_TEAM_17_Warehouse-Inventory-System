@@ -1,0 +1,79 @@
+Product ID: P1001
+Product Name: Floor Cleaner
+Location: Section K-02
+
+Product ID: P1002
+Product Name: Glass Cleaner
+Location: Section K-04
+
+Product ID: P1003
+Product Name: Bathroom Cleaner
+Location: Section K-06
+
+Product ID: P1004
+Product Name: Dishwashing Liquid
+Location: Section K-08
+
+Product ID: P1005
+Product Name: Laundry Detergent
+Location: Section K-10
+
+Product ID: P1006
+Product Name: Fabric Softener
+Location: Section K-12
+
+Product ID: P1007
+Product Name: Cleaning Sponge
+Location: Section K-14
+
+Product ID: P1008
+Product Name: Scrub Pad
+Location: Section K-16
+
+Product ID: P1009
+Product Name: Microfiber Cloth
+Location: Section K-18
+
+Product ID: P1010
+Product Name: Cleaning Brush
+Location: Section K-20
+
+Product ID: P1011
+Product Name: Toilet Brush
+Location: Section K-22
+
+Product ID: P1012
+Product Name: Dustpan
+Location: Section K-24
+
+Product ID: P1013
+Product Name: Broom
+Location: Section K-26
+
+Product ID: P1014
+Product Name: Mop
+Location: Section K-28
+
+Product ID: P1015
+Product Name: Bucket
+Location: Section K-30
+
+Product ID: P1016
+Product Name: Spray Bottle
+Location: Section K-32
+
+Product ID: P1017
+Product Name: Garbage Bags
+Location: Section K-34
+
+Product ID: P1018
+Product Name: Air Freshener
+Location: Section K-36
+
+Product ID: P1019
+Product Name: Disinfectant Spray
+Location: Section K-38
+
+Product ID: P1020
+Product Name: Hand Wash
+Location: Section K-40
