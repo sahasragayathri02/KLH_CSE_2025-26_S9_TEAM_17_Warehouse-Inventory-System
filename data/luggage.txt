@@ -1,0 +1,39 @@
+Product ID: P1611
+Product Name: Cabin Suitcase
+Location: Section D-01
+
+Product ID: P1612
+Product Name: Large Suitcase
+Location: Section D-02
+
+Product ID: P1613
+Product Name: Travel Trolley
+Location: Section D-03
+
+Product ID: P1614
+Product Name: Duffel Luggage
+Location: Section D-04
+
+Product ID: P1615
+Product Name: Carry-On Bag
+Location: Section D-05
+
+Product ID: P1616
+Product Name: Luggage Organizer
+Location: Section D-01
+
+Product ID: P1617
+Product Name: Luggage Cover
+Location: Section D-02
+
+Product ID: P1618
+Product Name: Travel Trunk
+Location: Section D-03
+
+Product ID: P1619
+Product Name: Hard Shell Case
+Location: Section D-04
+
+Product ID: P1620
+Product Name: Garment Bag
+Location: Section D-05
