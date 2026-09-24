@@ -1,0 +1,39 @@
+Product ID: P1461
+Product Name: Hand Wash
+Location: Section A-01
+
+Product ID: P1462
+Product Name: Hand Sanitizer
+Location: Section A-02
+
+Product ID: P1463
+Product Name: Bath Soap
+Location: Section A-03
+
+Product ID: P1464
+Product Name: Body Wash
+Location: Section A-04
+
+Product ID: P1465
+Product Name: Toothpaste
+Location: Section A-05
+
+Product ID: P1466
+Product Name: Toothbrush
+Location: Section A-01
+
+Product ID: P1467
+Product Name: Mouthwash
+Location: Section A-02
+
+Product ID: P1468
+Product Name: Deodorant
+Location: Section A-03
+
+Product ID: P1469
+Product Name: Tissue Pack
+Location: Section A-04
+
+Product ID: P1470
+Product Name: Wet Wipes
+Location: Section A-05
