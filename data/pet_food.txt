@@ -1,0 +1,39 @@
+Product ID: P1501
+Product Name: Dog Food
+Location: Section E-01
+
+Product ID: P1502
+Product Name: Cat Food
+Location: Section E-02
+
+Product ID: P1503
+Product Name: Puppy Food
+Location: Section E-03
+
+Product ID: P1504
+Product Name: Kitten Food
+Location: Section E-04
+
+Product ID: P1505
+Product Name: Fish Food
+Location: Section E-05
+
+Product ID: P1506
+Product Name: Bird Seed
+Location: Section E-01
+
+Product ID: P1507
+Product Name: Rabbit Food
+Location: Section E-02
+
+Product ID: P1508
+Product Name: Pet Treats
+Location: Section E-03
+
+Product ID: P1509
+Product Name: Dental Dog Treats
+Location: Section E-04
+
+Product ID: P1510
+Product Name: Wet Cat Food
+Location: Section E-05
