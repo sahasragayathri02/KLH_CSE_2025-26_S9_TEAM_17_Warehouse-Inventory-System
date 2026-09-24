@@ -1,0 +1,79 @@
+Product ID: P1601
+Product Name: Toy Car
+Location: Section P-01
+
+Product ID: P1602
+Product Name: Toy Train
+Location: Section P-03
+
+Product ID: P1603
+Product Name: Building Blocks
+Location: Section P-05
+
+Product ID: P1604
+Product Name: Puzzle Game
+Location: Section P-07
+
+Product ID: P1605
+Product Name: Chess Board
+Location: Section P-09
+
+Product ID: P1606
+Product Name: Ludo Game
+Location: Section P-11
+
+Product ID: P1607
+Product Name: Playing Cards
+Location: Section P-13
+
+Product ID: P1608
+Product Name: Toy Robot
+Location: Section P-15
+
+Product ID: P1609
+Product Name: Remote Car
+Location: Section P-17
+
+Product ID: P1610
+Product Name: Toy Helicopter
+Location: Section P-19
+
+Product ID: P1611
+Product Name: Teddy Bear
+Location: Section P-21
+
+Product ID: P1612
+Product Name: Toy Doll
+Location: Section P-23
+
+Product ID: P1613
+Product Name: Toy Kitchen Set
+Location: Section P-25
+
+Product ID: P1614
+Product Name: Drawing Kit
+Location: Section P-27
+
+Product ID: P1615
+Product Name: Coloring Book
+Location: Section P-29
+
+Product ID: P1616
+Product Name: Toy Guitar
+Location: Section P-31
+
+Product ID: P1617
+Product Name: Toy Drum
+Location: Section P-33
+
+Product ID: P1618
+Product Name: Water Gun
+Location: Section P-35
+
+Product ID: P1619
+Product Name: Toy Telescope
+Location: Section P-37
+
+Product ID: P1620
+Product Name: Science Kit
+Location: Section P-39
