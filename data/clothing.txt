@@ -1,1 +1,79 @@
+Product ID: P601
+Product Name: Cotton T Shirt
+Location: Section G-02
 
+Product ID: P602
+Product Name: Formal Shirt
+Location: Section G-04
+
+Product ID: P603
+Product Name: Denim Jeans
+Location: Section G-06
+
+Product ID: P604
+Product Name: Casual Trousers
+Location: Section G-08
+
+Product ID: P605
+Product Name: Sports Shorts
+Location: Section G-10
+
+Product ID: P606
+Product Name: Cotton Kurta
+Location: Section G-12
+
+Product ID: P607
+Product Name: Winter Jacket
+Location: Section G-14
+
+Product ID: P608
+Product Name: Hooded Sweatshirt
+Location: Section G-16
+
+Product ID: P609
+Product Name: Rain Jacket
+Location: Section G-18
+
+Product ID: P610
+Product Name: Woolen Sweater
+Location: Section G-20
+
+Product ID: P611
+Product Name: Formal Trousers
+Location: Section G-22
+
+Product ID: P612
+Product Name: Polo Shirt
+Location: Section G-24
+
+Product ID: P613
+Product Name: Denim Jacket
+Location: Section G-26
+
+Product ID: P614
+Product Name: Cotton Shorts
+Location: Section G-28
+
+Product ID: P615
+Product Name: Track Pants
+Location: Section G-30
+
+Product ID: P616
+Product Name: Leggings
+Location: Section G-32
+
+Product ID: P617
+Product Name: Casual Dress
+Location: Section G-34
+
+Product ID: P618
+Product Name: Formal Dress
+Location: Section G-36
+
+Product ID: P619
+Product Name: Cotton Saree
+Location: Section G-38
+
+Product ID: P620
+Product Name: Silk Saree
+Location: Section G-40
