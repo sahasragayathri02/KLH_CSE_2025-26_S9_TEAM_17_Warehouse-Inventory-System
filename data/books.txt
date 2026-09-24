@@ -1,0 +1,79 @@
+Product ID: P1201
+Product Name: Data Structures
+Location: Section L-01
+
+Product ID: P1202
+Product Name: Algorithms
+Location: Section L-03
+
+Product ID: P1203
+Product Name: Java Programming
+Location: Section L-05
+
+Product ID: P1204
+Product Name: Python Programming
+Location: Section L-07
+
+Product ID: P1205
+Product Name: C Programming
+Location: Section L-09
+
+Product ID: P1206
+Product Name: Database Systems
+Location: Section L-11
+
+Product ID: P1207
+Product Name: Computer Networks
+Location: Section L-13
+
+Product ID: P1208
+Product Name: Operating Systems
+Location: Section L-15
+
+Product ID: P1209
+Product Name: Computer Architecture
+Location: Section L-17
+
+Product ID: P1210
+Product Name: Machine Learning
+Location: Section L-19
+
+Product ID: P1211
+Product Name: Artificial Intelligence
+Location: Section L-21
+
+Product ID: P1212
+Product Name: Web Development
+Location: Section L-23
+
+Product ID: P1213
+Product Name: Software Engineering
+Location: Section L-25
+
+Product ID: P1214
+Product Name: Discrete Mathematics
+Location: Section L-27
+
+Product ID: P1215
+Product Name: Digital Electronics
+Location: Section L-29
+
+Product ID: P1216
+Product Name: Cloud Computing
+Location: Section L-31
+
+Product ID: P1217
+Product Name: Cyber Security
+Location: Section L-33
+
+Product ID: P1218
+Product Name: Data Science
+Location: Section L-35
+
+Product ID: P1219
+Product Name: Deep Learning
+Location: Section L-37
+
+Product ID: P1220
+Product Name: Internet of Things
+Location: Section L-39
