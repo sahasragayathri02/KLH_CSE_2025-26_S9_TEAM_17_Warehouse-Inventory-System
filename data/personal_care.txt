@@ -1,0 +1,79 @@
+Product ID: P1401
+Product Name: Shampoo
+Location: Section N-01
+
+Product ID: P1402
+Product Name: Conditioner
+Location: Section N-03
+
+Product ID: P1403
+Product Name: Face Wash
+Location: Section N-05
+
+Product ID: P1404
+Product Name: Body Wash
+Location: Section N-07
+
+Product ID: P1405
+Product Name: Hand Wash
+Location: Section N-09
+
+Product ID: P1406
+Product Name: Face Cream
+Location: Section N-11
+
+Product ID: P1407
+Product Name: Moisturizer
+Location: Section N-13
+
+Product ID: P1408
+Product Name: Sunscreen
+Location: Section N-15
+
+Product ID: P1409
+Product Name: Toothpaste
+Location: Section N-17
+
+Product ID: P1410
+Product Name: Toothbrush
+Location: Section N-19
+
+Product ID: P1411
+Product Name: Mouthwash
+Location: Section N-21
+
+Product ID: P1412
+Product Name: Hair Oil
+Location: Section N-23
+
+Product ID: P1413
+Product Name: Hair Gel
+Location: Section N-25
+
+Product ID: P1414
+Product Name: Deodorant
+Location: Section N-27
+
+Product ID: P1415
+Product Name: Shaving Cream
+Location: Section N-29
+
+Product ID: P1416
+Product Name: Bath Soap
+Location: Section N-31
+
+Product ID: P1417
+Product Name: Hand Sanitizer
+Location: Section N-33
+
+Product ID: P1418
+Product Name: Nail Cutter
+Location: Section N-35
+
+Product ID: P1419
+Product Name: Hair Comb
+Location: Section N-37
+
+Product ID: P1420
+Product Name: Bath Towel
+Location: Section N-39
