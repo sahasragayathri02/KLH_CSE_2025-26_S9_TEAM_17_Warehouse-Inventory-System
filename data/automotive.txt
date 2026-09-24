@@ -1,0 +1,79 @@
+Product ID: P1101
+Product Name: Car Battery
+Location: Section L-02
+
+Product ID: P1102
+Product Name: Engine Oil
+Location: Section L-04
+
+Product ID: P1103
+Product Name: Brake Fluid
+Location: Section L-06
+
+Product ID: P1104
+Product Name: Car Air Filter
+Location: Section L-08
+
+Product ID: P1105
+Product Name: Oil Filter
+Location: Section L-10
+
+Product ID: P1106
+Product Name: Car Wiper
+Location: Section L-12
+
+Product ID: P1107
+Product Name: Car Floor Mat
+Location: Section L-14
+
+Product ID: P1108
+Product Name: Car Seat Cover
+Location: Section L-16
+
+Product ID: P1109
+Product Name: Car Vacuum Cleaner
+Location: Section L-18
+
+Product ID: P1110
+Product Name: Tire Inflator
+Location: Section L-20
+
+Product ID: P1111
+Product Name: Car Polish
+Location: Section L-22
+
+Product ID: P1112
+Product Name: Dashboard Cleaner
+Location: Section L-24
+
+Product ID: P1113
+Product Name: Car Shampoo
+Location: Section L-26
+
+Product ID: P1114
+Product Name: Tire Cleaner
+Location: Section L-28
+
+Product ID: P1115
+Product Name: Jump Starter
+Location: Section L-30
+
+Product ID: P1116
+Product Name: Car Jack
+Location: Section L-32
+
+Product ID: P1117
+Product Name: Wheel Spanner
+Location: Section L-34
+
+Product ID: P1118
+Product Name: Safety Triangle
+Location: Section L-36
+
+Product ID: P1119
+Product Name: Emergency Kit
+Location: Section L-38
+
+Product ID: P1120
+Product Name: Car Phone Holder
+Location: Section L-40
