@@ -1,0 +1,39 @@
+Product ID: P1341
+Product Name: Mineral Water
+Location: Section A-01
+
+Product ID: P1342
+Product Name: Orange Juice
+Location: Section A-02
+
+Product ID: P1343
+Product Name: Apple Juice
+Location: Section A-03
+
+Product ID: P1344
+Product Name: Green Tea
+Location: Section A-04
+
+Product ID: P1345
+Product Name: Black Tea
+Location: Section A-05
+
+Product ID: P1346
+Product Name: Coffee Powder
+Location: Section A-01
+
+Product ID: P1347
+Product Name: Cold Drink
+Location: Section A-02
+
+Product ID: P1348
+Product Name: Lemonade
+Location: Section A-03
+
+Product ID: P1349
+Product Name: Coconut Water
+Location: Section A-04
+
+Product ID: P1350
+Product Name: Energy Drink
+Location: Section A-05
