@@ -1,0 +1,39 @@
+Product ID: P1641
+Product Name: Sunglasses
+Location: Section G-01
+
+Product ID: P1642
+Product Name: Reading Glasses
+Location: Section G-02
+
+Product ID: P1643
+Product Name: Computer Glasses
+Location: Section G-03
+
+Product ID: P1644
+Product Name: Safety Glasses
+Location: Section G-04
+
+Product ID: P1645
+Product Name: Sports Goggles
+Location: Section G-05
+
+Product ID: P1646
+Product Name: Blue Light Glasses
+Location: Section G-01
+
+Product ID: P1647
+Product Name: Eyeglass Case
+Location: Section G-02
+
+Product ID: P1648
+Product Name: Lens Cleaner
+Location: Section G-03
+
+Product ID: P1649
+Product Name: Eyeglass Strap
+Location: Section G-04
+
+Product ID: P1650
+Product Name: Sunglass Case
+Location: Section G-05
