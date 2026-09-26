@@ -1,0 +1,39 @@
+Product ID: P1391
+Product Name: Apples
+Location: Section F-01
+
+Product ID: P1392
+Product Name: Bananas
+Location: Section F-02
+
+Product ID: P1393
+Product Name: Oranges
+Location: Section F-03
+
+Product ID: P1394
+Product Name: Mangoes
+Location: Section F-04
+
+Product ID: P1395
+Product Name: Grapes
+Location: Section F-05
+
+Product ID: P1396
+Product Name: Pineapple
+Location: Section F-01
+
+Product ID: P1397
+Product Name: Watermelon
+Location: Section F-02
+
+Product ID: P1398
+Product Name: Papaya
+Location: Section F-03
+
+Product ID: P1399
+Product Name: Pomegranate
+Location: Section F-04
+
+Product ID: P1400
+Product Name: Guava
+Location: Section F-05
