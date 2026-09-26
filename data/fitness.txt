@@ -1,0 +1,39 @@
+Product ID: P1541
+Product Name: Yoga Mat
+Location: Section I-01
+
+Product ID: P1542
+Product Name: Dumbbell Set
+Location: Section I-02
+
+Product ID: P1543
+Product Name: Resistance Band
+Location: Section I-03
+
+Product ID: P1544
+Product Name: Kettlebell
+Location: Section I-04
+
+Product ID: P1545
+Product Name: Skipping Rope
+Location: Section I-05
+
+Product ID: P1546
+Product Name: Exercise Ball
+Location: Section I-01
+
+Product ID: P1547
+Product Name: Foam Roller
+Location: Section I-02
+
+Product ID: P1548
+Product Name: Gym Gloves
+Location: Section I-03
+
+Product ID: P1549
+Product Name: Pull Up Bar
+Location: Section I-04
+
+Product ID: P1550
+Product Name: Weight Plate
+Location: Section I-05
