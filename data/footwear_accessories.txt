@@ -1,0 +1,39 @@
+Product ID: P1591
+Product Name: Shoe Laces
+Location: Section B-01
+
+Product ID: P1592
+Product Name: Shoe Insoles
+Location: Section B-02
+
+Product ID: P1593
+Product Name: Shoe Polish
+Location: Section B-03
+
+Product ID: P1594
+Product Name: Shoe Brush
+Location: Section B-04
+
+Product ID: P1595
+Product Name: Heel Grips
+Location: Section B-05
+
+Product ID: P1596
+Product Name: Shoe Trees
+Location: Section B-01
+
+Product ID: P1597
+Product Name: Shoe Cleaner
+Location: Section B-02
+
+Product ID: P1598
+Product Name: Shoe Bags
+Location: Section B-03
+
+Product ID: P1599
+Product Name: Toe Protectors
+Location: Section B-04
+
+Product ID: P1600
+Product Name: Shoe Horn
+Location: Section B-05
