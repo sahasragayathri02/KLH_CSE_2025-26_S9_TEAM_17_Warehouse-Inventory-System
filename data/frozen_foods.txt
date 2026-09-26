@@ -1,0 +1,39 @@
+Product ID: P1381
+Product Name: Frozen Peas
+Location: Section E-01
+
+Product ID: P1382
+Product Name: Frozen Corn
+Location: Section E-02
+
+Product ID: P1383
+Product Name: Frozen Fries
+Location: Section E-03
+
+Product ID: P1384
+Product Name: Frozen Pizza
+Location: Section E-04
+
+Product ID: P1385
+Product Name: Frozen Paratha
+Location: Section E-05
+
+Product ID: P1386
+Product Name: Frozen Mixed Vegetables
+Location: Section E-01
+
+Product ID: P1387
+Product Name: Frozen Nuggets
+Location: Section E-02
+
+Product ID: P1388
+Product Name: Frozen Berries
+Location: Section E-03
+
+Product ID: P1389
+Product Name: Frozen Sweet Corn
+Location: Section E-04
+
+Product ID: P1390
+Product Name: Frozen Samosa
+Location: Section E-05
