@@ -1,0 +1,39 @@
+Product ID: P1631
+Product Name: Necklace
+Location: Section F-01
+
+Product ID: P1632
+Product Name: Bracelet
+Location: Section F-02
+
+Product ID: P1633
+Product Name: Earrings
+Location: Section F-03
+
+Product ID: P1634
+Product Name: Ring
+Location: Section F-04
+
+Product ID: P1635
+Product Name: Pendant
+Location: Section F-05
+
+Product ID: P1636
+Product Name: Anklet
+Location: Section F-01
+
+Product ID: P1637
+Product Name: Jewelry Box
+Location: Section F-02
+
+Product ID: P1638
+Product Name: Brooch
+Location: Section F-03
+
+Product ID: P1639
+Product Name: Cufflinks
+Location: Section F-04
+
+Product ID: P1640
+Product Name: Chain
+Location: Section F-05
