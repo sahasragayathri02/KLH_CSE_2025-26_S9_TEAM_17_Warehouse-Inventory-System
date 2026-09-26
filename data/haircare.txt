@@ -1,0 +1,39 @@
+Product ID: P1481
+Product Name: Shampoo
+Location: Section C-01
+
+Product ID: P1482
+Product Name: Conditioner
+Location: Section C-02
+
+Product ID: P1483
+Product Name: Hair Oil
+Location: Section C-03
+
+Product ID: P1484
+Product Name: Hair Serum
+Location: Section C-04
+
+Product ID: P1485
+Product Name: Hair Gel
+Location: Section C-05
+
+Product ID: P1486
+Product Name: Hair Spray
+Location: Section C-01
+
+Product ID: P1487
+Product Name: Hair Mask
+Location: Section C-02
+
+Product ID: P1488
+Product Name: Hair Brush
+Location: Section C-03
+
+Product ID: P1489
+Product Name: Hair Comb
+Location: Section C-04
+
+Product ID: P1490
+Product Name: Scalp Massager
+Location: Section C-05
