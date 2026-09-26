@@ -1,0 +1,39 @@
+Product ID: P1531
+Product Name: First Aid Kit
+Location: Section H-01
+
+Product ID: P1532
+Product Name: Antiseptic Solution
+Location: Section H-02
+
+Product ID: P1533
+Product Name: Cotton Roll
+Location: Section H-03
+
+Product ID: P1534
+Product Name: Gauze Pads
+Location: Section H-04
+
+Product ID: P1535
+Product Name: Adhesive Bandages
+Location: Section H-05
+
+Product ID: P1536
+Product Name: Antiseptic Wipes
+Location: Section H-01
+
+Product ID: P1537
+Product Name: Medical Scissors
+Location: Section H-02
+
+Product ID: P1538
+Product Name: Safety Pins
+Location: Section H-03
+
+Product ID: P1539
+Product Name: Burn Dressing
+Location: Section H-04
+
+Product ID: P1540
+Product Name: First Aid Tape
+Location: Section H-05
