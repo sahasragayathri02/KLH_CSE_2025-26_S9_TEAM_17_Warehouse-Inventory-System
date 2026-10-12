@@ -1,40 +1,44 @@
 # Project Reports
 
-This folder contains the reports and final documentation associated with the Warehouse Inventory System – Product Locator project.
+This directory contains reports and supporting documents related to the **Warehouse Inventory System – Product Locator** project.
 
-## Current Status
+## Available Documents
 
-The project implementation has been completed and the initial testing has been performed.
+The project report and abstract are maintained in the root directory of the repository.
 
-The final project report will be added to this folder as part of the final project submission.
+- **Project Report:** [`Warehouse Inventory System.pdf`](../Warehouse%20Inventory%20System.pdf)
+- **Project Abstract:** [`ProjectAbstract.pdf`](../ProjectAbstract.pdf)
 
-## Planned Report Contents
+## Project Report Contents
 
-The final report will contain:
+The final project report should cover the following sections:
 
-1. Introduction
-2. Problem Statement
-3. Objectives
-4. Literature/Background Study
-5. Proposed Methodology
-6. System Design
-7. KMP Algorithm
-8. Algorithm Implementation
-9. Dataset Description
-10. Testing
-11. Sample Results
-12. Complexity Analysis
-13. Screenshots
-14. Conclusion
-15. Future Enhancements
-16. References
+1. Introduction and project overview
+2. Problem statement and objectives
+3. Existing system and proposed solution
+4. Technologies used
+5. System architecture and workflow
+6. Data Structures and Algorithms used
+7. Algorithm design and complexity analysis
+8. Implementation details
+9. Testing and sample outputs
+10. Course Outcome (CO) mapping
+11. Limitations and future enhancements
+12. Conclusion and references
+13. Team member details and contributions
 
-## Project Status
+## Important Note
 
-**Implementation:** Completed
+The report must reflect the actual implementation available in `src/Main.java`. Algorithm descriptions, screenshots, test results, and performance claims should be verified against the working application before submission.
 
-**Initial Testing:** Completed
+## Team Information
 
-**Documentation:** Completed
+| Team Member | Student ID |
+|---|---|
+| Ch Sahasra Gayathri | 25200303036 |
+| V Sameer Reddy | 2520030276 |
+| Vennela Edala | 252030288 |
 
-**Final Report:** To be added before final submission
+**Project:** Warehouse Inventory System – Product Locator  
+**Programming Language:** Java  
+**Repository:** [View the project on GitHub](https://github.com/sahasragayathri02/KLH_CSE_2025-26_S9_TEAM_17_Warehouse-Inventory-System)
