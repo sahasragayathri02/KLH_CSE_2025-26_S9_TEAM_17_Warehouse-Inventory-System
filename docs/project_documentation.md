@@ -1,6 +1,6 @@
 # Warehouse Inventory System – Product Locator
 
-## 1. Project Information
+## 1. Project Information 
 
 **Project Title:** Warehouse Inventory System – Product Locator  
 **Domain:** Data Structures and Algorithms  
