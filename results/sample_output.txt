@@ -1,39 +1,80 @@
-WAREHOUSE INVENTORY SYSTEM
-PRODUCT LOCATOR
+WAREHOUSE INVENTORY SYSTEM – PRODUCT LOCATOR
+================================================
 
-==============================================
+1. Search Product by Name (KMP)
+2. Search Product by ID (HashMap)
+3. Fuzzy Product Search (Levenshtein Distance)
+4. Algorithm Selection
+5. Warehouse Distribution (Edmonds–Karp)
+6. Warehouse Coverage (Vertex Cover Approximation)
+7. Exit
 
-# TEST CASE 1
+Enter your choice: 1
 
-Input:
-Wireless Mouse
+Enter product name to search: Bluetooth Speaker
 
-Output:
+Searching inventory...
 
-✓ PRODUCT FOUND
+Product ID: P9001
+Product Name: Bluetooth Speaker
+Location: Section A-01
 
-Product ID   : P102
-Product Name : Wireless Mouse
-Location     : Section A-14
-File         : electronics.txt
+Search completed successfully.
 
-==============================================
+================================================
+Enter your choice: 2
 
-# TEST CASE 2
+Enter Product ID: P9001
 
-Input:
-Microwave Oven
+Product Found!
 
-Output:
+Product ID: P9001
+Product Name: Bluetooth Speaker
+Location: Section A-01
 
-✓ PRODUCT FOUND
+================================================
+Enter your choice: 3
 
-Product ID   : P502
-Product Name : Microwave Oven
-Location     : Section F-04
-File         : appliances.txt
+Enter product name: Bluetooh Speaker
 
-==============================================
+Performing fuzzy search...
+
+Possible matching product:
+Product ID: P9001
+Product Name: Bluetooth Speaker
+Location: Section A-01
+
+================================================
+Enter your choice: 4
+
+Algorithm Selection Module
+
+Problem: Searching for a product by name
+Selected Algorithm: KMP Pattern Matching
+Reason: Efficient pattern searching with O(n + m) time complexity.
+
+================================================
+Enter your choice: 5
+
+Warehouse Distribution Module
+
+Algorithm: Edmonds–Karp Maximum Flow
+Maximum Flow: [Insert actual program result]
+
+================================================
+Enter your choice: 6
+
+Warehouse Coverage Module
+
+Algorithm: Vertex Cover Approximation
+Selected Vertices: [Insert actual program result]
+
+================================================
+Enter your choice: 7
+
+Exiting Warehouse Inventory System.
+
+Thank you for using the Product Locator!
 
 # TEST CASE 3
 
